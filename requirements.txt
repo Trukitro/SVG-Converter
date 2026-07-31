@@ -1,0 +1,6 @@
+customtkinter>=5.2
+tkinterdnd2>=0.6
+svglib>=1.5
+reportlab>=4.0
+pycairo>=1.25
+Pillow>=10.0
